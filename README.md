@@ -1,0 +1,1 @@
+Interactive Power BI dashboard built to analyze sales performance, track revenue trends, monitor product-wise and country-wise sales, and highlight key performance indicators for better business decision-making.
