@@ -1,1 +1,1 @@
-Interactive Power BI dashboard built to analyze sales performance, track revenue trends, monitor product-wise and country-wise sales, and highlight key performance indicators for better business decision-making.
+This repository includes two sales analytics dashboards—one in Power BI and one in Excel—designed to track key sales KPIs, revenue trends, and product/region performance. Both dashboards provide quick insights for data-driven decision-making.
